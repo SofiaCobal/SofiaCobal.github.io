@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Ana Panfila Filomena 
+Mi nombre es Sofía Cobaleda, tengo 19 años. Completé mi educación básica en el Colegio Distrital Manuel Cepeda Vargas, sede A, donde me gradué con honores y excelencia académica.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/multi-language-al-folio/publications/) automatically.
+Durante mi último año de secundaria, realicé un curso técnico en el SENA enfocado en sistemas. Al graduarme, comencé a trabajar en el área de ventas. Posteriormente, ingresé a una escuela de estética y completé un técnico profesional en cuidado y estética de uñas. Actualmente, trabajo de manera independiente como manicurista.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A finales de 2022, me postulé para el programa "Jóvenes a la U" con el objetivo de continuar mis estudios en el área de sistemas. Un mes después, fui seleccionada para estudiar una carrera técnica en la Universidad ETITC, donde actualmente curso el tercer semestre.
